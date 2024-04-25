@@ -3,10 +3,17 @@ body {
 }
 
 button {
+    padding: 0.8%;
     background-color: #002D72;
     border-color: #FF5910;
 }
 
 h3 {
     color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: #FF5910;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
